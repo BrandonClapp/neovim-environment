@@ -36,4 +36,24 @@ Inside of nvim tree, press `d`
 
 Same as file
 
+#### Q. How do I fold a function?
+
+->
+
+#### Q. How do I move a file?
+
+In nvim tree, press `c` to copy and then `p` to paste into a different directory
+
+#### Q. How do I open a telescope file in a vertical split buffer?
+
+->
+
+#### Q. How do I get prettier installed and triggered on file save?
+
+->
+
+#### Q. How do I fast scroll using something other than 9k9kk9k?...
+
+->
+
 
