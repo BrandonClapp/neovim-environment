@@ -46,13 +46,19 @@ In nvim tree, press `c` to copy and then `p` to paste into a different directory
 
 #### Q. How do I open a telescope file in a vertical split buffer?
 
-->
+Ctrl + v
+
+https://docs.rockylinux.org/books/nvchad/nvchad_ui/nvimtree/
 
 #### Q. How do I get prettier installed and triggered on file save?
 
 ->
 
 #### Q. How do I fast scroll using something other than 9k9kk9k?...
+
+->
+
+#### Q. How do you format on save? How do you set up prettier?
 
 ->
 
